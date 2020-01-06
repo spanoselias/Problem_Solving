@@ -20,7 +20,6 @@ public class Task1 {
         final String binaryInt = Integer.toBinaryString(N);
 
         for (char number : binaryInt.toCharArray()) {
-
         }
         return 8;
     }
