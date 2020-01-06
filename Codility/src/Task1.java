@@ -19,12 +19,13 @@ public class Task1 {
     public static int solution(int N) {
         final String binaryInt = Integer.toBinaryString(N);
 
+        for (char number : binaryInt.toCharArray()) {
 
+        }
         return 8;
     }
 
     public static void main(String args[]) {
-
 
     }
 }
